@@ -1,0 +1,19 @@
+.Ordercard{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    margin: 2% 25%;
+    padding: 5%;
+    border-radius: 4px;
+  background-color: white;
+
+  }
+  .ordertitle{
+      font-size: 20px;
+      font-weight: 700;
+  }
+  .ordersubtitle{
+      color:grey;
+  }
+  .orderimage{
+    width: 25%;
+    margin-bottom: 10%;
+  }
